@@ -16,3 +16,9 @@
 [submodule "LT-5"]
 	path = LT-5
 	url = https://github.com/CNNOM/LT-5.git
+[submodule "LT-6"]
+	path = LT-6
+	url = https://github.com/CNNOM/LT-6.git
+[submodule "LT-7"]
+	path = LT-7
+	url = https://github.com/CNNOM/LT-7.git
