@@ -22,3 +22,6 @@
 [submodule "LT-7"]
 	path = LT-7
 	url = https://github.com/CNNOM/LT-7.git
+[submodule "LT-8"]
+	path = LT-8
+	url = https://github.com/CNNOM/LT-8.git
